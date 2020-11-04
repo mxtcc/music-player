@@ -1,14 +1,3 @@
-# 基于Vue-cli3重写vue-QQmusic
-
-
-项目预览地址：[Vue-QQmusic](https://timelessover.github.io/vue-QQmusic/dist/index.html#/)
-
-
-二维码：
-
-
-![](https://upload-images.jianshu.io/upload_images/8562733-157172662bba93c3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/400)
-
 
 ### 技术栈
 
@@ -33,8 +22,6 @@
 - [x] 播放模式切换
 <br/>
 
-### 项目截图
-![播放器](https://upload-images.jianshu.io/upload_images/8562733-df2f215053cf04ff.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)![首页](https://upload-images.jianshu.io/upload_images/8562733-74adb508015b9db5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)![歌手](https://upload-images.jianshu.io/upload_images/8562733-65623bce6f18fa6e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)![搜索](https://upload-images.jianshu.io/upload_images/8562733-9097bff9fd855c5f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
 
 
 <br/>
@@ -50,23 +37,6 @@
 + store.js存放状态管理  
 + App.vue是项目根组件  
 + main.js是项目入口文件  
-<br/>
-
-## Build Setup
-
-``` bash
-# install dependencies
-yarn
-
-# serve with hot reload at localhost:8080
-yarn serve
-
-# build for production with minification
-yarn build
-
-# build for production and view the bundle analyzer report
-yarn build --report
-```
 <br/>
 
 
